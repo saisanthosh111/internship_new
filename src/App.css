@@ -1,0 +1,174 @@
+*{
+  margin:0;
+  margin-left:0.1px;
+  font-family:sans-serif;
+}
+.head-text {
+  position: relative;
+  width:100%;
+  height:425px;
+  object-fit:cover;
+  
+}
+.text-on-image {
+ position: absolute;
+ right: 0;
+ left: 200px;
+ top:45px;
+ color:white;
+ font-size:40px;
+}
+.below{
+  background-color:lightgray
+  ;
+  height:460px;
+  margin:60px;
+  display: flex;
+}
+
+.head-left{
+  height:420px;
+  width:350px;
+  margin:20px;
+  border-radius: 5px;
+}
+
+.box{
+  margin:20px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  width: 790px;
+  display: flex;
+  height:200px;
+}
+.head-right{
+  height: 200px;
+  border-radius: 10px 0px 0px 10px;
+ width:200px;
+}
+.insidebox{
+  display:flex;
+}
+
+.text-on-image2 {
+  position: absolute;
+  top: 360px;
+  left:120px;
+  color:white;
+  font-size:40px;
+ }
+
+ .skydiving{
+   position: relative;
+ }
+ 
+ .boxinside {
+   border-bottom:1px ridge LightGray;
+   width:400px;
+   height:60px;
+   font-size:20px;
+   margin:18px;
+   margin-bottom: 6px;
+ }
+
+ .smallicons{
+   color:darkgray;
+   display:flex;
+   margin:15px;
+   font-size: 15px; 
+ }
+ .spaceicons{
+   margin-right:20px;
+ }
+
+ .line{
+  border-right:1px solid LightGray;
+  width:420px;
+  height:185px;
+ }
+
+ .imagesinside{
+   display: flex;
+ }
+
+ .smallbox{
+   border:1px solid lightgray;
+   background-color: lightgray;
+   height:45px;
+   padding:8px;
+   margin:5px 10px 10px 13px;
+   width:60px;
+   margin-right:3px;
+   margin-left:10px;
+   border-radius: 2px;
+ }
+ .imagebold{
+   color:black;
+   margin:5px;
+   margin-left: 10px;
+   width:30px;
+   
+ }
+ .caption{
+   display: block;
+   font-size: 13px;
+   text-align: center;
+ }
+
+ .box-for-text{
+   box-sizing: border-box;
+   border:2px solid black;
+   margin:2px;
+   border-radius: 10px;
+   padding: 5px;
+   color: cadetblue;
+ }
+ .ratingnumber{
+   border:1px solid yellow;
+   background-color: yellow;
+   height: 25px;
+   margin:10px;
+   margin-top:30px;
+ }
+ .rating{
+   width:100px;
+   height:60px;
+   margin:10px;
+   margin-bottom: 1px;
+   
+ }
+ .numberreview{
+   margin:10px;
+   margin-top:1px;
+   margin-left:25px;
+   font-size:15px;
+
+ }
+ .numberreview1{
+  margin:10px;
+  margin-top:1px;
+  margin-left:25px;
+  font-size:20px;
+
+}
+.numberreview2{
+  margin:10px;
+  margin-top:3px;
+  margin-left:55px;
+  margin-right: 10px;
+  font-size:20px;
+  color:red;
+}
+
+.ratingnumber3{
+  border: 1px solid green;
+  background-color: green;
+  width:80px;
+  margin:10px;
+  margin-left:33px;
+  padding: 8px;
+  font-size:15px;
+  color:white;
+  border-radius: 3px;
+}
+ 
